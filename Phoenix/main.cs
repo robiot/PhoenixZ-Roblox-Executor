@@ -25,7 +25,7 @@ namespace Phoenix
         {
             //Discord
             this.handlers = default(DiscordRpc.EventHandlers);
-            DiscordRpc.Initialize("791259721700999200", ref this.handlers, true, null);
+            DiscordRpc.Initialize("822233684177977345", ref this.handlers, true, null);
             this.presence.state = "Using Phoenix Z";
             this.presence.largeImageKey = "bigphoneix";
             DiscordRpc.UpdatePresence(ref this.presence);
