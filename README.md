@@ -24,7 +24,7 @@ If you would like to compile yourself then this is how
 ## More Information  
 This plugin was tested on a Windows10 x64 bit machine
 
-Visual studio may give an message that says "Security Warning for Phoenix... You should only open projects from...", just click ok if you belive its trustworthy and if you don't check the sourcecode and you can check yourself :))
+Visual studio may give an message that says "Security Warning for Phoenix... You should only open projects from...", just click ok if you belive its trustworthy and if you don't check the sourcecode and you can see yourself :))
 
 **If you experience any error or have a suggestion please let me know**
 \
